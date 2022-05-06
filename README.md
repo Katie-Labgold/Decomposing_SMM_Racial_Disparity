@@ -3,3 +3,5 @@ Decomposition analysis (mediation) of the Black-White racial disparity in severe
 g-estimation of a structural nested mean model.
 
 Associated manuscript is being drafted for peer-review; additional details to follow.
+
+Title: Decomposing the Black-White racial disparity in severe maternal morbidity (SMM) risk: the role of hypertensive disorders of pregnancy
