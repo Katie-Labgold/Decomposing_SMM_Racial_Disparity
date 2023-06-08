@@ -9,4 +9,4 @@ Title: Decomposing the Black-White racial disparity in severe maternal morbidity
 
 **Two available files:**
 1. *gestimation-rmarkdown-2023-03-01.R*: code and select comments provided in html file below.
-2. *gestimation-rmarkdown-2023-03-01.html*: html file of associated R markdown, which provides example of output of primary analysis highlighted in paper. To view, download raw file and open in browser.
+2. [*gestimation-rmarkdown-2023-03-01.html*](http://htmlpreview.github.io/?https://github.com/Katie-Labgold/Decomposing_SMM_Racial_Disparity/blob/main/gestimation-rmarkdown-2023-03-01.html): html file of associated R markdown, which provides example of output of primary analysis highlighted in paper. To view, either click the link or download the raw file and open in browser.
